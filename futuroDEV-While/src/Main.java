@@ -11,5 +11,9 @@ public class Main {
             //numero = numero + 1; (não usamos mais assim!)
             numero++;
         }
+
+        for (int i = 0; i <= 5; i++) {
+            System.out.println("Valor: " + i);
+        }
     }
 }
